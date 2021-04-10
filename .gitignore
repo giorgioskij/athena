@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+*.egg-info
+athena/local_config.py
+.temp/
+athenad.service
+resources/athena.pmdl
+resources/*.wav
