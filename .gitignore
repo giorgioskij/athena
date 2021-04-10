@@ -2,7 +2,8 @@ __pycache__
 .vscode
 *.egg-info
 src/local_config.py
-temp/*
+temp/*.wav
+temp/*.txt
 athenad.service
 resources/athena.pmdl
 resources/*.wav
