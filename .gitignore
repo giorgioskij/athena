@@ -8,3 +8,4 @@ temp/*.pid
 athenad.service
 resources/athena.pmdl
 resources/*.wav
+request.py
