@@ -4,6 +4,7 @@ __pycache__
 src/local_config.py
 temp/*.wav
 temp/*.txt
+temp/*.pid
 athenad.service
 resources/athena.pmdl
 resources/*.wav
