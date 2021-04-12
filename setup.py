@@ -9,7 +9,8 @@ setup(
         'PyAudio',
         'speechrecognition',
         'snowboy',
-        'beepy'
+        'beepy',
+        'sounddevice'
     ],
     entry_points={
         'console_scripts': ['athena=src.athena:main']
